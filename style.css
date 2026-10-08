@@ -1,0 +1,55 @@
+p,h1,li,h3{
+    color:#F9F8FF;
+}
+.my-class-2{
+    color : deeppink;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+li{
+    font-family: 'Manrope';
+    font-size: 1em;
+
+}
+
+h2{
+    font-size: 2em;
+}
+
+p{
+    font-family: 'Manrope';
+    font-size: 1.1em;
+}
+
+h1{
+    font-family: 'Montserrat', cursive;
+    font-size: 3.5em;
+    text-align: center;
+    padding: 15px;
+    background: linear-gradient(to right,#000046,#1cb5e0);
+}
+
+a{
+    color:#242424;
+    text-decoration: none;
+    font-size: 1em;
+    font-family: 'Manrope';
+}
+body{
+    background-color:#7276db ;
+}
+
+
+ol{
+    list-style-type: none;
+}
+
+h3{
+    font-size: 1.5em;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
